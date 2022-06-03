@@ -1,5 +1,5 @@
-# ShootingTheTarget
-A simple digital game developed with Python during the Tech Week at Harve with the teacher of Bruno Campagnolo.
+<h1>ShootingTheTarget</h1>
+<p>A simple digital game developed with Python during the Tech Week at Harve with the teacher of Bruno Campagnolo.</p>
 
-Programming Language:
-<font-awesome-icon icon="fa-brands fa-python" />
+<p>Programming Language:<p>
+f3e2
